@@ -65,3 +65,13 @@
 [K3D3][33] R. A. Khalil, Saeed, N, Masood, M, Fard, Y. M, Ahmad, A and Alouini, M. S, "Deep Learning in the Industrial Internet of Things: Potentials, Challenges, and Emerging Applications," IEEE Internet of Things Journal, vol. 8, no. 14, 2021. DOI: https://doi.org/10.1109/JIOT.2021.3051414
 
 [U3N4][34] "United Nations, Sustainable Development Goals," [Online]. Available: https://sdgs.un.org/goals.
+
+[F7V2][35] J. Á. Fernández-Vigo, I. Almorín-Fernández-Vigo, B. Kudsieh and J. I. Fernández-Vigo, "Investigación científica versus investigación tecnológica. Una clarificación necesaria," Archivos de la Sociedad Española de Oftalmología, vol. 98, no. 9, pp. 491-492, 2023. doi: https://doi.org/10.1016/j.oftal.2023.04.002
+
+[H4N8][36] A. R. Hevner, S. T. March, J. Park and S. Ram, "Design Science in Information Systems Research," MIS Quarterly, vol. 28, no. 1, pp. 75-105, 2004.
+
+[P6T9][37] K. Peffers, T. Tuunanen, M. A. Rothenberger and S. Chatterjee, "A Design Science Research Methodology for Information Systems Research," Journal of Management Information Systems, vol. 24, no. 3, pp. 45-77, 2007. doi: https://doi.org/10.2753/MIS0742-1222240302
+
+[K8M5][38] H. Kampling, M. Klesel and B. Niehaves, "On Experiments in Design Science Research and Theory Development: A Literature Review," in Proceedings of the International Conference on Information Systems, 2016.
+
+
