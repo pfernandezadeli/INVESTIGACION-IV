@@ -1,0 +1,7 @@
+## 1.5. Justificación e importancia del estudio
+
+Como justificación social, la presente investigación contribuirá a mejorar la sostenibilidad energética de las plantas agroindustriales mediante la reducción del desperdicio energético y la optimización de los recursos utilizados durante los procesos productivos. Asimismo, permitirá fomentar una cultura de eficiencia energética que beneficie tanto a las organizaciones como a la sociedad, promoviendo prácticas alineadas con el desarrollo sostenible y la protección del medio ambiente.
+
+Como justificación económica, la implementación de un sistema inteligente basado en Machine Learning e IoT permitirá reducir costos operativos asociados al consumo excesivo de energía eléctrica mediante la identificación temprana de patrones ineficientes y anomalías energéticas. Esto favorecerá una mejor administración de los recursos energéticos, incrementando la competitividad y rentabilidad de las plantas agroindustriales de Lambayeque.
+
+Por último, como justificación legal, la investigación se encuentra alineada con el Objetivo de Desarrollo Sostenible 7 (Energía asequible y no contaminante) y el Objetivo de Desarrollo Sostenible 9 (Industria, innovación e infraestructura), promovidos por las Naciones Unidas [U3N4][34]. Asimismo, contribuye al cumplimiento de políticas nacionales orientadas al uso eficiente de la energía impulsadas por el Ministerio de Energía y Minas del Perú.

@@ -1,0 +1,31 @@
+# Local assistant/tool metadata
+.agents/
+.codex/
+
+# Git internals are never committed, but keep this explicit for clarity
+.git/
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Local environment/config files
+.env
+.env.*
+
