@@ -4,7 +4,8 @@ El cronograma de ejecución presenta las actividades principales del proyecto de
 
 **Tabla N° 4: Cronograma de actividades**
 
-<table style="border-collapse: collapse; width: 100%; font-family: 'Times New Roman', serif; font-size: 10pt; text-align: center;">
+<div style="overflow-x: auto; width: 100%; padding-bottom: 8px;">
+<table style="border-collapse: collapse; min-width: 1100px; width: 1100px; font-family: 'Times New Roman', serif; font-size: 10pt; text-align: center;">
   <thead>
     <tr>
       <th rowspan="2" style="border: 1px solid #000; width: 34%; padding: 4px; vertical-align: middle;">ACTIVIDADES</th>
@@ -96,5 +97,6 @@ El cronograma de ejecución presenta las actividades principales del proyecto de
     </tr>
   </tbody>
 </table>
+</div>
 
 El cronograma podrá ajustarse de acuerdo con la disponibilidad de la institución participante, el acceso a los datos energéticos y las observaciones realizadas por el docente asesor durante el desarrollo del proyecto.
