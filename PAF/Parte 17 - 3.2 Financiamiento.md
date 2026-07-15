@@ -1,7 +1,7 @@
-## 3.2. Financiamiento
+## 3.2 Financiamiento
 
 El presente proyecto de investigación será autofinanciado por el equipo investigador, conformado por Mori Cumpen Maria Fernanda, Piñin Fernandez Adelith Mabel, Rodriguez Samaniego Gabriela Nayely y Temoche Cumpa Mario Ismael. Los gastos necesarios para la planificación, ejecución y finalización del estudio serán cubiertos con recursos propios de los autores, sin financiamiento directo de una institución patrocinadora externa ni de entidades cooperantes.
 
-El monto total estimado para el desarrollo del proyecto asciende a S/ 1500.00, de acuerdo con el detalle presupuestal presentado en el apartado anterior. Este monto permitirá cubrir bienes, materiales e insumos, viajes, servicios de terceros y gastos de gestión necesarios para la recolección de información, procesamiento de datos energéticos, desarrollo del sistema inteligente basado en Machine Learning y elaboración del informe final.
+El monto total estimado para el desarrollo del proyecto asciende a S/ 1637.00, de acuerdo con el detalle presupuestal presentado en el apartado anterior. Este monto incluye bienes, materiales e insumos, viajes, servicios de terceros, gastos de gestión y un fondo para imprevistos del 10 %, necesarios para la recolección de información, procesamiento de datos energéticos, desarrollo del sistema inteligente basado en Machine Learning y elaboración del informe final.
 
 La Universidad Señor de Sipán brindará apoyo académico indirecto mediante la orientación del docente asesor, el acompañamiento metodológico y el uso de lineamientos institucionales para la formulación del proyecto de investigación. Sin embargo, dicho apoyo no constituye financiamiento económico directo. En consecuencia, la ejecución financiera del proyecto será asumida íntegramente por los investigadores responsables.

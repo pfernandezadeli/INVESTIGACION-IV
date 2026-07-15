@@ -1,3 +1,5 @@
+# REFERENCIAS
+
 [S6X8][1] "International Energy Agency," Industry – Energy System, 2023. [Online]. Available: [https://www.iea.org/energy-system/industry](https://www.iea.org/energy-system/industry).
 
 [M2W7][2] Y. C. and X. Wang, "The Internet of Things in Manufacturing: Key Issues," pp. 6 - 15, 2018. DOI: https://doi.org/10.1109/MSMC.2017.2702391
@@ -46,32 +48,20 @@
 
 [K2D4][24] R. A. Khalil, N. Saeed, M. Masood, Y. M. Fard, A. Ahmad and M. Alouini, "Deep Learning in the Industrial Internet of Things: Potentials, Challenges, and Emerging Applications," IEEE Internet of Things Journal, vol. 8, no. 14, p. 20, 2021. doi: https://doi.org/10.1109/JIOT.2021.3051414
 
-[S2G5][25] A. R. Singh, "A deep learning and IoT-driven framework for real-time smart grid energy optimization," Scientific Reports, vol. 15, 2025. doi: https://doi.org/10.1038/s41598-025-02649-w.
+[F7V2][25] J. Á. Fernández-Vigo, I. Almorín-Fernández-Vigo, B. Kudsieh and J. I. Fernández-Vigo, "Investigación científica versus investigación tecnológica. Una clarificación necesaria," Archivos de la Sociedad Española de Oftalmología, vol. 98, no. 9, pp. 491-492, 2023. doi: https://doi.org/10.1016/j.oftal.2023.04.002
 
-[H2E6][26] J. Huang, "Real-time monitoring and optimization methods for user-side energy management based on edge computing," Scientific Reports, vol. 15, 2025. doi: https://doi.org/10.1038/s41598-025-07592-4.
+[H4N8][26] A. R. Hevner, S. T. March, J. Park and S. Ram, "Design Science in Information Systems Research," MIS Quarterly, vol. 28, no. 1, pp. 75-105, 2004.
 
-[A2S7][27] K. A. Al-Sammak, "Optimizing IoT Energy Efficiency: Real-Time Adaptive Algorithm for Smart Metering Systems," Energies, vol. 18, no. 4, 2025. doi: https://doi.org/10.3390/en18040987.
+[P6T9][27] K. Peffers, T. Tuunanen, M. A. Rothenberger and S. Chatterjee, "A Design Science Research Methodology for Information Systems Research," Journal of Management Information Systems, vol. 24, no. 3, pp. 45-77, 2007. doi: https://doi.org/10.2753/MIS0742-1222240302
 
-[M2E8][28] A. A. Mirani, A. Awasthi, N. O'Mahony and J. Walsh, "Industrial IoT-Based Energy Monitoring System: Using Data Processing at Edge," IoT, vol. 5, no. 3, 2024. DOI: https://doi.org/10.3390/iot5040027
+[K8M5][28] H. Kampling, M. Klesel and B. Niehaves, "On Experiments in Design Science Research and Theory Development: A Literature Review," in Proceedings of the International Conference on Information Systems, 2016.
 
-[S2A9][29] "Internet of Things and Machine Learning for Energy Saving in Advanced Manufacturing Processes: A Review," Cleaner Production and Environmental Systems, vol. 2, no. 1, 2026. DOI: https://doi.org/10.1016/j.cpes.2025.07.005
+[M5B9][29] C. Miller, A. Kathirgamanathan, B. Picchetti, P. Arjunan, J. Y. Park, Z. Nagy, P. Raftery, B. W. Hobson, Z. Shi and F. Meggers, "The Building Data Genome Project 2, energy meter data from the ASHRAE Great Energy Predictor III competition," Scientific Data, vol. 7, Art. no. 368, 2020. doi: https://doi.org/10.1038/s41597-020-00712-x
 
-[I3E0][30] E. E. International Energy Agency, "IEA," 2023. [Online]. Available: https://www.iea.org/reports/energy-efficiency-2023.
+[A8C3][30] C. Miller et al., "The ASHRAE Great Energy Predictor III competition: Overview and results," arXiv:2007.07140, 2020. [Online]. Available: https://arxiv.org/abs/2007.07140
 
-[H3E1][31] J. Huang, "Real-time monitoring and optimization methods for user-side energy management based on edge computing," Scientific Reports, vol. 15, 2025. DOI: https://doi.org/10.1038/s41598-025-07592-4
+[D5K1][31] D. Kallis, M. Symeonides and M. D. Dikaiakos, "Data-Driven Energy Modeling of Industrial IoT Systems: A Benchmarking Approach," arXiv:2505.02543, 2025. [Online]. Available: https://arxiv.org/abs/2505.02543
 
-[R3D2][32] S. S. Reka and Dragicevic, T, "Future effectual role of energy delivery: A comprehensive review of Internet of Things and smart grid," Renewable and Sustainable Energy Reviews, vol. 91, 2018. DOI: https://doi.org/10.1016/j.rser.2018.03.089
+[S9A4][32] S. Ardabili, L. Abdolalizadeh, C. Mako, B. Torok and A. Mosavi, "Systematic Review of Deep Learning and Machine Learning for Building Energy," Frontiers in Energy Research, vol. 10, 2022. doi: https://doi.org/10.3389/fenrg.2022.786027
 
-[K3D3][33] R. A. Khalil, Saeed, N, Masood, M, Fard, Y. M, Ahmad, A and Alouini, M. S, "Deep Learning in the Industrial Internet of Things: Potentials, Challenges, and Emerging Applications," IEEE Internet of Things Journal, vol. 8, no. 14, 2021. DOI: https://doi.org/10.1109/JIOT.2021.3051414
-
-[U3N4][34] "United Nations, Sustainable Development Goals," [Online]. Available: https://sdgs.un.org/goals.
-
-[F7V2][35] J. Á. Fernández-Vigo, I. Almorín-Fernández-Vigo, B. Kudsieh and J. I. Fernández-Vigo, "Investigación científica versus investigación tecnológica. Una clarificación necesaria," Archivos de la Sociedad Española de Oftalmología, vol. 98, no. 9, pp. 491-492, 2023. doi: https://doi.org/10.1016/j.oftal.2023.04.002
-
-[H4N8][36] A. R. Hevner, S. T. March, J. Park and S. Ram, "Design Science in Information Systems Research," MIS Quarterly, vol. 28, no. 1, pp. 75-105, 2004.
-
-[P6T9][37] K. Peffers, T. Tuunanen, M. A. Rothenberger and S. Chatterjee, "A Design Science Research Methodology for Information Systems Research," Journal of Management Information Systems, vol. 24, no. 3, pp. 45-77, 2007. doi: https://doi.org/10.2753/MIS0742-1222240302
-
-[K8M5][38] H. Kampling, M. Klesel and B. Niehaves, "On Experiments in Design Science Research and Theory Development: A Literature Review," in Proceedings of the International Conference on Information Systems, 2016.
-
-
+[G7M2][33] C. Miller, L. Hao and C. Fu, "Gradient boosting machines and careful pre-processing work best: ASHRAE Great Energy Predictor III lessons learned," arXiv:2202.02898, 2022. [Online]. Available: https://arxiv.org/abs/2202.02898

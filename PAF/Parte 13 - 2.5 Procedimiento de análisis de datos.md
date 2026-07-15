@@ -1,0 +1,17 @@
+## 2.5 Procedimiento de análisis de datos
+
+El análisis de datos se desarrollará de manera ordenada, cuantitativa y reproducible. Los datos energéticos recopilados por sí solos no permiten responder directamente al problema de investigación; por ello, será necesario depurarlos, organizarlos, procesarlos e interpretarlos mediante técnicas estadísticas y modelos de Machine Learning.
+
+En primer lugar, se realizará la revisión de calidad de datos. Se identificarán valores incompletos, registros duplicados, inconsistencias temporales, datos atípicos y errores de captura. Los registros que no cumplan los criterios técnicos establecidos serán corregidos cuando sea posible o excluidos si comprometen la validez del análisis.
+
+En segundo lugar, se organizará la información en una base de datos estructurada. Las variables serán ordenadas según fecha, hora, equipo, corriente, voltaje, potencia eléctrica, consumo energético y estado operativo. Esta organización permitirá construir el dataset experimental y definir las variables predictoras y la variable objetivo.
+
+En tercer lugar, se aplicará estadística descriptiva para resumir el comportamiento de las variables energéticas. Se calcularán medidas como promedio, mínimo, máximo, desviación estándar, frecuencias, porcentajes y tendencias temporales. Los resultados serán presentados mediante tablas y gráficos que permitan identificar patrones de consumo energético.
+
+En cuarto lugar, se entrenarán y evaluarán modelos de Machine Learning orientados a la predicción del consumo energético. Según la disponibilidad de datos, se podrán comparar algoritmos como Random Forest, Gradient Boosting, XGBoost, LightGBM, redes neuronales recurrentes o modelos LSTM. La literatura reciente muestra que los modelos basados en aprendizaje automático y aprendizaje profundo son usados ampliamente para predicción energética [S9A4][32], y que los enfoques de Gradient Boosting con preprocesamiento cuidadoso han mostrado alto desempeño en competencias de predicción energética como ASHRAE Great Energy Predictor III [G7M2][33].
+
+En quinto lugar, se calcularán métricas cuantitativas de desempeño. Para la predicción se considerarán MAE, RMSE y R². Para la optimización se evaluará el porcentaje de mejora del consumo energético comparando el consumo base frente al consumo estimado u optimizado por el sistema. También se analizará el tiempo de procesamiento y la capacidad del sistema para identificar patrones o anomalías energéticas.
+
+En sexto lugar, se realizará la contrastación de la hipótesis. Si los datos cumplen condiciones suficientes, se aplicarán pruebas estadísticas inferenciales para comparar los resultados antes y después de la implementación del sistema, o para comparar modelos predictivos. En caso de que los datos no cumplan supuestos paramétricos, se utilizarán pruebas no paramétricas o comparación de métricas experimentales. Este análisis permitirá determinar si el sistema inteligente contribuye significativamente a mejorar la predicción y optimización del consumo energético.
+
+Finalmente, los resultados serán interpretados en función de los objetivos específicos de la investigación. Se verificará si las variables energéticas identificadas influyen en el consumo, si los modelos seleccionados predicen adecuadamente el comportamiento energético y si el sistema inteligente contribuye a optimizar el consumo eléctrico. Todo el procedimiento será documentado para asegurar trazabilidad, transparencia y reproducibilidad.

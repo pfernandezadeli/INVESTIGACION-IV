@@ -1,0 +1,11 @@
+## 2.6 Criterios éticos
+
+Todas las fases de la presente investigación se desarrollarán respetando los principios generales y específicos establecidos en los artículos 5 y 6 del Código de Ética en Investigación de la Universidad Señor de Sipán S.A.C. El estudio se conducirá bajo criterios de integridad científica, responsabilidad, transparencia, respeto por las personas, confidencialidad de la información y veracidad en el tratamiento de los datos recolectados.
+
+Debido a que la investigación puede considerar participación de personas vinculadas con operación, mantenimiento, supervisión o gestión energética de plantas agroindustriales, se aplicará consentimiento informado cuando corresponda. Antes de recoger información proporcionada por los participantes, se explicará el objetivo del estudio, el tipo de información solicitada, el uso académico de los datos, la voluntariedad de la participación y el derecho a retirarse en cualquier momento.
+
+La investigación también tomará como referencia los principios éticos aplicables a estudios con seres humanos, como respeto por la autonomía, beneficencia, no maleficencia y justicia. Si el Comité Institucional de Ética en Investigación lo requiere, los instrumentos, formatos de consentimiento y procedimientos serán presentados para evaluación correspondiente.
+
+Respecto a los datos energéticos y documentos técnicos de las plantas agroindustriales, se garantizará confidencialidad y seguridad de la información. Los registros de consumo eléctrico, reportes operativos, especificaciones de equipos o datos generados por sensores IoT serán tratados de manera reservada. No se divulgarán nombres de empresas, trabajadores, áreas internas ni información sensible sin autorización. Los resultados serán presentados de forma agregada o anonimizada.
+
+Asimismo, se garantizará la integridad de los datos utilizados en el desarrollo del sistema inteligente. No se alterarán, manipularán ni fabricarán registros para modificar resultados. Los procesos de limpieza, depuración, transformación y análisis serán documentados para asegurar trazabilidad, transparencia y reproducibilidad. También se respetarán los derechos de autor y la propiedad intelectual de fuentes bibliográficas, modelos, librerías, herramientas tecnológicas y documentos consultados.
